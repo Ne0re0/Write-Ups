@@ -1,5 +1,9 @@
 
+# Fil-Rouge Category 
 
+
+> [!NOTE] Fil-Rouge
+> - Fil-Rouge category was designed to be a serie of challenges related to each others
 
 
 Order in which I solved those challenges
